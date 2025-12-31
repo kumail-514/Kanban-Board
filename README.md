@@ -9,7 +9,7 @@ With this Kanban Board, you can create, move, and organize tasks across differen
 
 
 ## 🎮 Live Demo
-👉syed-kanbanboard.netlify.app
+👉https://syed-kanbanboard.netlify.app
 
 
 Features
