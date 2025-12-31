@@ -1,73 +1,33 @@
-Kanban Board 🗂️
-Description
+# 🗂️ Kanban Board – Task Management App
 
-This is a web-based Kanban Board application built using HTML, CSS, and JavaScript.
-It allows users to manage tasks efficiently in a drag-and-drop interface, similar to popular productivity tools like Trello.
+A lightweight and interactive **Kanban Board** built with **Vanilla JavaScript**, designed to manage tasks efficiently using a simple drag-and-drop workflow. The app supports persistent task storage, real-time updates, and a clean user experience without relying on external libraries.
 
-With this Kanban Board, you can create, move, and organize tasks across different columns (e.g., To Do, In Progress, Done) with a seamless drag-and-drop experience.
+---
 
+live demo
+https://kumail-514.github.io/Kanban-Board/
 
+## ✨ Features
 
-## 🎮 Live Demo
-👉  https://kumail-514.github.io/Kanban-Board/
+- 📌 **Three Kanban Columns**: Todo, In Progress, Done  
+- 🔀 **Drag & Drop Support** using HTML Drag and Drop API  
+- 💾 **LocalStorage Persistence** (tasks stay after refresh)  
+- ➕ **Add Tasks** with title and description  
+- 🗑️ **Delete Tasks** instantly  
+- 🔢 **Live Task Counters** for each column  
+- 🔔 **User Notifications** for actions  
+- 🎨 **Clean & Responsive UI**
 
+---
 
-Features
+## 🛠️ Tech Stack
 
-✅ Add Tasks dynamically
+- **HTML5**
+- **CSS3**
+- **Vanilla JavaScript**
+- **Browser LocalStorage**
 
-✅ Drag-and-Drop tasks between columns
+---
 
-✅ Delete or Edit tasks easily
+## 📂 Project Structure
 
-✅ Persistent Layout (optional: save tasks using localStorage)
-
-
-
-How to Use
-
-Open index.html in your browser.
-
-Use the input field to add a new task.
-
-Drag tasks from one column to another (To Do → In Progress → Done).
-
-Click on a task to edit or delete it.
-
-Tasks remain in their columns until manually moved or removed.
-
-Installation
-
-No installation is required! Just follow these steps:
-
-Clone or download the repository:
-
-git clone https://github.com/kumail-514/kanban-board.git
-
-
-Navigate to the project folder:
-
-cd kanban-board
-
-
-Open index.html in your browser.
-
-
-Technologies Used
-
-HTML5
-
-CSS3 (Flexbox/Grid for layout)
-
-JavaScript (Vanilla JS with drag-and-drop API)
-
-Author
-
-Syed Kumail Abbas
-GitHub: https://github.com/kumail-514
-
-Optional Enhancements
-
-Save tasks using LocalStorage to retain them after browser refresh.
-
-Add due dates or priorities to tasks.
