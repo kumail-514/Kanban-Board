@@ -16,7 +16,6 @@ Features
 
 ✅ Persistent Layout (optional: save tasks using localStorage)
 
-✅ Responsive and interactive design
 
 Live Demo
 syed-kanbanboard.netlify.app
