@@ -6,6 +6,12 @@ It allows users to manage tasks efficiently in a drag-and-drop interface, simila
 
 With this Kanban Board, you can create, move, and organize tasks across different columns (e.g., To Do, In Progress, Done) with a seamless drag-and-drop experience.
 
+
+
+## 🎮 Live Demo
+👉syed-kanbanboard.netlify.app
+
+
 Features
 
 ✅ Add Tasks dynamically
@@ -17,8 +23,6 @@ Features
 ✅ Persistent Layout (optional: save tasks using localStorage)
 
 
-Live Demo
-syed-kanbanboard.netlify.app
 
 How to Use
 
@@ -38,7 +42,7 @@ No installation is required! Just follow these steps:
 
 Clone or download the repository:
 
-git clone https://github.com/yourusername/kanban-board.git
+git clone https://github.com/kumail-514/kanban-board.git
 
 
 Navigate to the project folder:
