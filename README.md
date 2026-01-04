@@ -16,7 +16,6 @@ https://kumail-514.github.io/Kanban-Board/
 - 🗑️ **Delete Tasks** instantly  
 - 🔢 **Live Task Counters** for each column  
 - 🔔 **User Notifications** for actions  
-- 🎨 **Clean & Responsive UI**
 
 ---
 
